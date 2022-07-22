@@ -200,6 +200,10 @@ body {
     color: #FFFFFF;
 }
 
+.footer-item {
+    font-style: normal;
+}
+
 .footer-link {
     font-weight: 400;
     font-size: 14px;
