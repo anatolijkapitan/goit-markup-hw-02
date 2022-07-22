@@ -28,6 +28,7 @@ body {
 /* ----------------Header----------- */
 
 .header-logo {
+    font-family: 'Raleway';
     color: #000000;
     font-weight: 700;
     font-size: 26px;
@@ -178,6 +179,8 @@ body {
 }
 
 .footer-title {
+    font-family: 'Raleway';
+    font-style: normal;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
@@ -221,7 +224,7 @@ body {
     color: var(--accent-color);
 } */
 
-.filters {
+.filters-btn {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
